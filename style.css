@@ -1,0 +1,60 @@
+.tombol-kembali {
+  border: 1px solid rgb(33, 207, 114);
+  color: red;
+  background-color: blue;
+  /*             top rigth bottom left */
+  /* border-radius: 4px 4px 4px 4px; */
+  /* border-radius: 4px 4px; */
+  border-radius: 4px;
+
+  /* margin: 4px 10px 10px 10px; */
+  /* margin: 4px 10px; */
+  /* margin: 4px; */
+  margin-bottom: 5px;
+
+  padding: 4px 15px;
+}
+
+.tombol-input {
+  border: 0px;
+  background-color: #23486A;
+  border-radius: 10px;
+  padding: 5px 15px;
+  color: white;
+}
+
+/* hover */
+.tombol-input:hover {
+  background-color: #193a59;
+}
+
+.my-table {
+  color: #193a59;
+  border-collapse: collapse;
+}
+
+.my-table th,td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #ebebeb;
+}
+
+.btn-edit {
+  border: 0px;
+  background-color: #e0d01b;
+  border-radius: 10px;
+  padding: 5px 15px;
+  color: white;
+}
+
+.btn-hapus {
+  border: 0px;
+  background-color: #f46235;
+  border-radius: 10px;
+  padding: 5px 15px;
+  color: white;
+}
